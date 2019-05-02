@@ -13,6 +13,13 @@ Die Visualisierung wurde mit Hilfe der raylib-Bibliothek von raysan5 umgesetzt.
 
 Weitere Informationen zum Barnsley Farn findest du unter anderem auf der englisch sprachigen Wikipedia-Seite (https://en.wikipedia.org/wiki/Barnsley_fern) sowie im Video "Coding Challenge #108: Barnsley Fern" von "The Coding Train" (https://youtu.be/JFugGF1URNo).
 
+### additional information ###
+Coding Challenge: https://youtu.be/JFugGF1URNo<br/>
+Wikipedia: https://en.wikipedia.org/wiki/Barnsley_fern<br/>
+rust-lang : https://www.rust-lang.org/<br/>
+raylib: https://www.raylib.com/<br/>
+rust-bindings: https://github.com/AregevDev/raylib-rs<br/>
+
 ## CREDITS ##
 Many Thanks to raysan5 (https://github.com/raysan5/raylib) and of course
 AregevDev (https://github.com/AregevDev/raylib-rs) and deltaphc (https://github.com/deltaphc/raylib-rs)
